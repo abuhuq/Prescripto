@@ -20,8 +20,8 @@ const Contact = () => {
                 Ernakulam, Kochi- 682016 <br />
                 Kerala, India</p>
              <p className=' text-gray-500'>Tel: +91-XXXXX XXXXX <br />
-             Email: prescripto@gmail.com</p>
-             <p className=' font-semibold text-lg text-gray-600'>CAREERS AT PRESCRIPTO</p>
+             Email: medoc@gmail.com</p>
+             <p className=' font-semibold text-lg text-gray-600'>CAREERS AT MEDOC</p>
              <p className=' text-gray-500'>Learn more about our teams and job openings.</p>
              <button className='border border-black py-4 px-8 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
           </div>
